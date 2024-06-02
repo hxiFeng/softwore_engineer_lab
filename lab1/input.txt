@@ -1,3 +1,8 @@
 In a quiet village nestled between rolling hills and lush forests, 
 a young girl named Eliza discovered a hidden garden. 
-Every day after school, she would wander through the cobblestone paths, marveling at the vibrant flowers and ancient trees. The garden became her sanctuary, a place where she could dream and imagine endless adventures. One sunny afternoon, while exploring a forgotten corner, she found an old, weathered book that held secrets of the village's past. As she turned the pages, Eliza felt a connection to the stories, realizing that her own life was intricately woven into the history of the place she loved so dearly.
+Every day after school, she would wander through the cobblestone paths, 
+marveling at the vibrant flowers and ancient trees. The garden became her sanctuary, 
+a place where she could dream and imagine endless adventures. One sunny afternoon,
+ while exploring a forgotten corner, she found an old, weathered book that held secrets of the village's past. 
+ As she turned the pages, Eliza felt a connection to the stories, 
+realizing that her own life was intricately woven into the history of the place she loved so dearly.
