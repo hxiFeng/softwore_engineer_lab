@@ -1,0 +1,32 @@
+digraph G {
+    "through" -> "the" [label="1"];
+    "named" -> "eliza" [label="1"];
+    "discovered" -> "a" [label="1"];
+    "hidden" -> "garden" [label="1"];
+    "young" -> "girl" [label="1"];
+    "eliza" -> "discovered" [label="1"];
+    "rolling" -> "hills" [label="1"];
+    "would" -> "wander" [label="1"];
+    "cobblestone" -> "paths" [label="1"];
+    "school" -> "she" [label="1"];
+    "and" -> "lush" [label="1"];
+    "quiet" -> "village" [label="1"];
+    "after" -> "school" [label="1"];
+    "village" -> "nestled" [label="1"];
+    "every" -> "day" [label="1"];
+    "day" -> "after" [label="1"];
+    "between" -> "rolling" [label="1"];
+    "a" -> "hidden" [label="1"];
+    "a" -> "young" [label="1"];
+    "a" -> "quiet" [label="1"];
+    "nestled" -> "between" [label="1"];
+    "in" -> "a" [label="1"];
+    "lush" -> "forests" [label="1"];
+    "girl" -> "named" [label="1"];
+    "forests" -> "a" [label="1"];
+    "the" -> "cobblestone" [label="1"];
+    "she" -> "would" [label="1"];
+    "wander" -> "through" [label="1"];
+    "hills" -> "and" [label="1"];
+    "garden" -> "every" [label="1"];
+}
